@@ -9,12 +9,7 @@ playlist_videos = {
 
 }
 
-video_title = []
-video_url = []
-channel_title = []
-video_title = []
-video_thumbnail = []
-
+video_title = video_url = channel_title = video_title = video_thumbnail = []
 
 linkToPlaylist = input('Enter URL of the playlist: ')
 
